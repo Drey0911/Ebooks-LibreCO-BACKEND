@@ -1,7 +1,7 @@
 # Libre CO
 
 <p align="center">
-  <img src="./img/planetEbook.png" alt="Logo Libre CO" width="200" style="vertical-align:middle;"/>
+  <img src="./img/planetEbook.png" alt="Logo Libre CO" width="800" style="vertical-align:middle;"/>
 </p>
 
 ## Tecnologías
