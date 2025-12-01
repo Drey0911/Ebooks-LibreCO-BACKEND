@@ -108,3 +108,8 @@ Validaciones internas:
 ## Scripts
 - `npm run dev` Inicia servidor con `nodemon`
 - `npm start` Inicia servidor con `node`
+
+## Licencia
+Todos los derechos reservados. © 2025 Andrey Stteven Mantilla Leon.
+
+Este software es propiedad de su creador y si se usa como base, inspiración o referencia, se debe creditar al autor.
