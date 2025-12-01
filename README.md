@@ -1,14 +1,12 @@
 # Libre CO
 
 <p align="center">
-  <img src="./img/planetEbook.png" alt="Logo Libre CO" width="140" style="vertical-align:middle; margin-right:12px;"/>
-  <span style="font-size:40px; font-weight:800; vertical-align:middle;">
+  <img src="./img/planetEbook.png" alt="Logo Libre CO" width="200" style="vertical-align:middle; margin-right:15px;"/>
+  <span style="font-size:50px; font-weight:800; vertical-align:middle;">
     <span style="color:#F54927">Libre</span>
-    <span style="color:#FFFFFF"> CO</span>
+    <span style="color:#FFFFFF; background-color: #333333; padding: 0 5px; border-radius: 5px;">CO</span>
   </span>
 </p>
-
-API backend para un ecommerce de ebooks. Gestiona autenticación de usuarios, catálogo de libros, compras y acceso al contenido digital.
 
 ## Tecnologías
 
@@ -24,6 +22,11 @@ API backend para un ecommerce de ebooks. Gestiona autenticación de usuarios, ca
   <a href="https://www.npmjs.com/package/cors"><img src="https://img.shields.io/badge/CORS-Enabled-2E7D32" alt="CORS"></a>
   <a href="https://nodemon.io"><img src="https://img.shields.io/badge/Nodemon-Dev-76D04B?logo=nodemon&logoColor=white" alt="Nodemon"></a>
 </p>
+
+## Descripción
+
+API backend para un ecommerce de ebooks. Gestiona autenticación de usuarios, catálogo de libros, compras por medio del carrito, validación
+de metodos de pago usando algoritmos.
 
 ## Requisitos
 - `Node.js` 18+
