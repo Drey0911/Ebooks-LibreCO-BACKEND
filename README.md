@@ -1,11 +1,7 @@
 # Libre CO
 
 <p align="center">
-  <img src="./img/planetEbook.png" alt="Logo Libre CO" width="200" style="vertical-align:middle; margin-right:15px;"/>
-  <span style="font-size:50px; font-weight:800; vertical-align:middle;">
-    <span style="color:#F54927">Libre</span>
-    <span style="color:#FFFFFF; background-color: #333333; padding: 0 5px; border-radius: 5px;">CO</span>
-  </span>
+  <img src="./img/planetEbook.png" alt="Logo Libre CO" width="200" style="vertical-align:middle;"/>
 </p>
 
 ## Tecnologías
